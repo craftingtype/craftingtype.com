@@ -1,0 +1,206 @@
+html.svg .no-svg-img,
+html.no-svg .svg-img
+	display: none
+
+img
+	-ms-interpolation-mode: bicubic
+	max-width: 100%
+
+body
+	// border-top: 1em solid $yellow
+	font-size: 125%
+	background: #f0f0f0
+	color: #222
+	font-family: $serif
+	line-height: $magic-number
+
+h3
+	font-family: $sans
+	font-weight: 900
+	margin-bottom: .5em
+	text-transform: uppercase
+	font-size: 16px
+	letter-spacing: 1px
+
+a
+	color: $blue
+	text-decoration: none
+	&:hover
+		color: $dark-blue
+
+em
+	font-style: italic
+
+strong
+	font-weight: bold
+
+.nav-container
+	background: $yellow
+	font-family: $sans
+	font-weight: 900
+	text-transform: uppercase
+	font-size: 14px
+	letter-spacing: 1px
+
+.nav-container a
+	color: darken($yellow, 30%)
+	display: inline-block
+	padding: 1em
+	&:hover
+		color: #000
+
+.container-fluid
+	margin: 0 auto
+
+.layer
+	margin-bottom: $magic-number * 3em
+
+.title
+	font-size: 2.88em
+	font-weight: bold
+	letter-spacing: -1px
+
+.subtitle
+	font-size: 1.75em
+	font-weight: 700
+	margin-bottom: .25em
+
+.module
+	margin-bottom: $magic-number * 1em
+	padding-bottom: $magic-number * 1em
+
+.sidebar
+	font-size: 0.8181em
+	padding: 10%
+	background: #fff
+	border: $border-style
+	background: #fff url(../images/stripes.png) repeat-x
+
+.sidebar .module,
+.instructor .module,
+	border-bottom: $border-style
+
+.instructor .module
+	padding-bottom: .5em
+	margin-bottom: 2.25em
+
+.last.module
+	margin-bottom: 0
+	padding-bottom: 0
+	border-bottom: none
+
+=button
+	-webkit-appearance: none
+	cursor: pointer
+	+border-radius(4px)
+	border: none
+	background: $blue
+	display: inline-block
+	text-decoration: none
+	color: #fff
+	letter-spacing: 1px
+	font-weight: 900
+	text-transform: uppercase
+	text-align: center
+	font-family: $sans
+	&:hover
+		background: $dark-blue
+		color: #fff
+
+.button
+	+button
+
+input[type="text"],
+input[type="email"],
+input[type="submit"]
+	font-family: $sans
+	padding: .5em
+	font-size: .9em
+	display: inline
+	border: none
+	+border-radius(4px)
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="submit"]:focus
+	outline: none
+
+input[type="text"],
+input[type="email"]
+	background: #eee
+	width: 60%
+
+input[type="text"]:focus,
+input[type="email"]:focus
+	background: #f4f4f4
+
+input[type="submit"]
+	width: 25%
+
+.email-form
+	margin-top: .5em
+
+.icon
+	background-size: contain
+	background-position: 0 0
+	background-repeat: no-repeat
+
+html.svg
+	.icon.flash
+		background-image: url(../images/Icon-Flash.svg)
+		padding-left: 1.5em
+	.icon.calendar
+		background-image: url(../images/Icon-Calendar.svg)
+		padding-left: 2em
+	.icon.location
+		background-image: url(../images/Icon-Location.svg)
+		padding-left: 1.4em
+	.icon.heart
+		background-image: url(../images/Icon-Heart.svg)
+		padding-left: 2.3em
+	.icon.email
+		background-image: url(../images/Icon-Email.svg)
+		padding-left: 2.9em
+	.icon.help
+		background-image: url(../images/Icon-Help.svg)
+		padding-left: 2em
+html.no-svg
+	.icon:before
+		content: "• "
+		color: $blue
+
+.share-buttons
+	border-top: 2px solid #ddd
+	border-bottom: 2px solid #ddd
+	margin-bottom: 2em
+	padding: .5em 0
+
+	h3
+		margin: 3px 0 0 0
+
+.share-button
+	height: 20px
+	width: 30%
+	float: right
+
+.sponsors
+	padding-top: 1em
+	text-align: center
+
+.sponsors img
+	vertical-align: bottom
+
+.sponsors a
+	display: block
+	padding: 1.5em 0
+//	border-bottom: 2px solid #ddd
+
+.sponsors li:last-child a
+	border: none
+
+.instructor .subtitle
+	margin: 0
+
+.instructor p
+	margin: 1.5em 0
+	font-size: .8em
