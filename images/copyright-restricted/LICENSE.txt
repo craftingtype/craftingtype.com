@@ -14,6 +14,7 @@ LICENSE.txt
 fllg_cmyk05x0_500x170.tif
 fllg_rgbFF7F00_500x170.jpg
 fllg_rgbFF7F00_500x170.png
+Fontlab-vector-logo.eps
 
 Copyright (c) Fontlab Ltd. All Rights Reserved.  
 
