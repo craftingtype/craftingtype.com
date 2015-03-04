@@ -17,7 +17,7 @@ WritingScript:Roman
 OutlineFileName:\ChangaOne-Italic.ttf
 DataFormat:sfntData
 FileLength:26728
-FileModTime:1382772670
+FileModTime:1425052065
 NameArray:0,Mac,4,Changa One Italic
 NameArray:0,Win,1,Changa One
 %EndFont
@@ -38,7 +38,7 @@ WritingScript:Roman
 OutlineFileName:\ChangaOne-Regular.ttf
 DataFormat:sfntData
 FileLength:22716
-FileModTime:1382772670
+FileModTime:1425052065
 NameArray:0,Mac,4,Changa One
 NameArray:0,Win,1,Changa One
 %EndFont
@@ -61,7 +61,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:218640
-FileModTime:1390458084
+FileModTime:1425052065
 DesignSize:110
 NameArray:0,Mac,4,Minion Pro
 NameArray:0,Win,1,Minion Pro
@@ -85,7 +85,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:66088
-FileModTime:1373435706
+FileModTime:1425052065
 NameArray:0,Mac,4,Raleway Bold
 NameArray:0,Win,1,Raleway
 %EndFont
@@ -106,7 +106,7 @@ WritingScript:Roman
 OutlineFileName:\Raleway-ExtraBold.ttf
 DataFormat:sfntData
 FileLength:125136
-FileModTime:1383192850
+FileModTime:1425052065
 NameArray:0,Mac,18,Raleway ExtraBold
 NameArray:0,Mac,4,Raleway ExtraBold
 NameArray:0,Win,1,Raleway
@@ -128,7 +128,7 @@ WritingScript:Roman
 OutlineFileName:\Raleway-Medium.ttf
 DataFormat:sfntData
 FileLength:129308
-FileModTime:1383192850
+FileModTime:1425052065
 NameArray:0,Mac,18,Raleway Medium
 NameArray:0,Mac,4,Raleway Medium
 NameArray:0,Win,1,Raleway
@@ -150,7 +150,7 @@ WritingScript:Roman
 OutlineFileName:\TitanOne-Regular.ttf
 DataFormat:sfntData
 FileLength:55712
-FileModTime:1395733024
+FileModTime:1425052065
 NameArray:0,Mac,4,Titan One
 NameArray:0,Win,1,Titan One
 %EndFont
