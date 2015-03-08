@@ -1,0 +1,47 @@
+
+Hi $name
+
+We are thrilled to register you for Crafting Type. 
+
+We will confirm your payment in the nxt few days, as TUG 
+processes orders by hand. You will receive a receipt in
+another email from the TUG Office. 
+
+Meanwhile, 
+
+
+
+Finally, appended is an electronic copy of your registration
+details.
+
+If you have any questions, please contact us by replying
+to this email.
+
+Thanks again!
+
+Best regards,
+Dave
+
+             workshop: id
+     registration fee: 000 (Type)
+         TUG donation:
+   font fund donation:
+          grand total: 000
+
+         payment type: MasterCard
+
+                email: em@a.il
+                 name: First Last
+           department:
+         organization:
+       street address: 00 Street
+       address line 2:
+                 town: Town
+                state: State
+          postal code: 123
+              country: QZ
+
+                phone: 123123123123
+                  fax:
+
+             comments:
