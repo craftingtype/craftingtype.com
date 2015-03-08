@@ -3,24 +3,128 @@ Hi $name
 
 We are thrilled to register you for Crafting Type. 
 
-We will confirm your payment in the nxt few days, as TUG 
-processes orders by hand. You will receive a receipt in
-another email from the TUG Office. 
-
-Meanwhile, 
-
-
-
-Finally, appended is an electronic copy of your registration
-details.
-
-If you have any questions, please contact us by replying
+If you have any questions, please contact us by replying 
 to this email.
 
-Thanks again!
+We will confirm your payment in the next few days, as 
+TUG processes orders by hand. You will receive a 
+receipt in another email from the TUG Office. 
+
+To prepare for the upcoming Crafting Type workshop, 
+it helps to be familiar with the basics of font editing,
+which you can learn at your own pace before the event.
+We think of Crafting Type as a skill multiplier, so the
+more experience you have when you arrive, the more you
+can learn with us by your side.
+
+So we'd like to invite you to install a font editor 
+before you arrive. If you can't find the time, or need 
+any help at all with this process, don't worry - just 
+arrive half an hour earlier on the first day and we'll 
+do our best to get you ready then. If there's a queue, 
+we will make sure your editor is set up by the middle 
+of the day.
+
+But which one?
+
+Actually you have lots of options!
+
+What you choose may depend on your budget and what you 
+expect to do after Crafting Type. Here are the 3 most 
+common options, with other further below:
+
+FontForge runs on Mac, Windows and GNU+Linux, and it is 
+totally free of charge and will continue to work after 
+the workshop forever at no cost. It is also libre 
+software, so you are invited to join the FontForge 
+community and contribute to its manual, send in crash 
+reports, and propose new features. Its simple UI and 
+comprehensive features makes it a good choice for 
+beginners. http://fontforge.org
+
+Fontlab Studio 5 runs on Mac and Windows, and 
+FontLab Inc. is offering a free trial license for the 
+workshop that lasts a few weeks afterwards too, 
+and a 20% discount on the full license price of 
+USD$649, so the price for Crafting Type participants 
+is USD$519.20. FontLab Studio is widely used by 
+professional type designers and foundries. It runs 
+best on Windows and pre-Retina Macs.
+
+http://www.fontlab.com/font-editor/fontlab-studio/download-fontlab-studio
+
+Glyphs runs only on Mac, and a free 30 day trial 
+license is available, while the full price is 
+239.90 EUR (USD$260.) It is the most popular font 
+editor today with comprehensive features and many 
+automatic functions. 
+
+http://www.glyphsapp.com/get-glyphs
+
+
+
+The font editors less common at our workshops are:
+
+RoboFont runs only on Mac, and has a free 30 day 
+trial  license and full price license of 400 EUR 
+(USD$435.) It has excellent Python scripting 
+capabilities. It is  used by the world's top foundries, 
+who keep Python programmers on staff, and has many 
+plugins and extensions on Github and elsewhere that 
+fill out the essential features that are included out 
+of the box. 
+
+http://doc.robofont.com/download/
+
+Fontographer runs on Mac and Windows, and the same free 
+trial and 20% discount from the US$399 license is 
+available from FontLab Inc, so the price is USD$319.20. 
+Fontographer was widely used by professional type 
+designers and foundries in the 1990s and has a simple 
+UI and the most important features. 
+
+http://www.fontlab.com/font-editor/fontographer/download-fontographer/
+
+TypeTool runs on Mac and Windows, and is a scaled-down 
+Fontlab Studio junior, with the same interface and 
+only the most important features for USD$47.99. 
+
+http://www.fontlab.com/font-editor/typetool/download-typetool/
+
+Glyphs Mini runs only on Mac, a free 30 day trial is 
+available, and the full price is USD$45. It is a scaled-down 
+version with the same interface and only the most 
+important features. 
+
+https://itunes.apple.com/us/app/glyphs-mini/id469036911?mt=12
+
+
+
+Bonus Links
+
+Here's some background reading we would love you to spend a 
+quiet moment with before the workshop, about how professional 
+type designers approach a new type design project:
+
+https://www.quora.com/What-does-a-typical-brief-for-a-new-typeface-look-like/answer/Thomas-Phinney
+
+Also, as a little light entertainment, here is a couple of 
+fun little font games to learn with:
+
+http://type.method.ac
+
+http://kern.method.ac
+
+We look forward to seeing you at the workshop!
 
 Best regards,
-Dave
+
+The Crafting Type Team
+
+PS. One more thing. Here's is a copy of your registration 
+details. 
+
+Thanks again!
 
              workshop: id
      registration fee: 000 (Type)
