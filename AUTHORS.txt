@@ -1,0 +1,17 @@
+# This is the official list of project authors for copyright purposes.
+# This file is distinct from the CONTRIBUTORS.txt file.
+# See the latter for an explanation.
+# 
+# Names should be added to this file as:
+# Name or Organization <email address>
+
+Kyle Fox
+Jeff Archibald
+Dave Crossland
+Octavio Pardo
+Eben Sorkin
+Alexei Vanyashin
+Vernon Adams
+Thomas Phinney
+Aoife Mooney
+Blondina Elms Pastel
