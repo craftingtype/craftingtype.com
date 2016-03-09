@@ -3,6 +3,10 @@
 The following files are under restrictive copyright and contain proprietary trademarks that can not be used without permission. 
 The Crafting Type website has permission to use them.
 
+The following files are 
+
+    Copyright (c) Fontlab Ltd. All Rights Reserved.  
+
 * [FL-logotype-BW300dpi.jpg](FL-logotype-BW300dpi.jpg)
 * [FL-logotype.png](FL-logotype.png)
 * [FL-logotype169x54.png](FL-logotype169x54.png)
@@ -16,7 +20,18 @@ The Crafting Type website has permission to use them.
 * [fllg_rgbFF7F00_500x170.png](fllg_rgbFF7F00_500x170.png)
 * [Fontlab-vector-logo.eps](Fontlab-vector-logo.eps)
 
-Copyright (c) Fontlab Ltd. All Rights Reserved.  
+The following files are 
+
+    COPYRIGHT © 2016 GLYPHS
+
+* [glyphs2.png](glyphs2.png)
+
+The following files are 
+
+    Copyright 2014 Twitter, Inc
+
+* [kjameshenderson.png](kjameshenderson.png)
+* [q_type.png](q_type.png)
 
 The business correspondence address of Fontlab Ltd. is:
 
