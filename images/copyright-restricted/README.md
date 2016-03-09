@@ -1,9 +1,14 @@
-# License
+# Copyright Restricted Image Licenses
 
 The following files are under restrictive copyright and contain proprietary trademarks that can not be used without permission. 
-The Crafting Type website has permission to use them.
+
+The Crafting Type and TUG websites have permission to use them.
 
 The following files are 
+
+### Fontlab
+
+<contact@fontlab.com>
 
     Copyright (c) Fontlab Ltd. All Rights Reserved.  
 
@@ -20,31 +25,28 @@ The following files are
 * [fllg_rgbFF7F00_500x170.png](fllg_rgbFF7F00_500x170.png)
 * [Fontlab-vector-logo.eps](Fontlab-vector-logo.eps)
 
+### Glyphs
+
+<info@glyphsapps.com>
+
 The following files are 
 
     COPYRIGHT © 2016 GLYPHS
 
 * [glyphs2.png](glyphs2.png)
 
+### Twitter
+
+The following files probably have copyright belonging to twitter and the users. 
+
+* [2013-02-06_arielleey.png](2013-02-06_arielleey.png) ([@arielleey](https://twitter.com/arielleey))
+* [2013-03-09_kjameshenderson.png](2013-03-09_kjameshenderson.png) ([@kjameshenderson](https://twitter.com/kjameshenderson))
+* [2013-03-11_q_type.png](2013-03-11_q_type.png) ([@q_type](https://twitter.com/q_type))
+
+### Blogs
+
 The following files are 
 
-    Copyright 2014 Twitter, Inc
+    © 2012 10four Design Group. All Rights Reserved.
 
-* [kjameshenderson.png](kjameshenderson.png)
-* [q_type.png](q_type.png)
-
-The business correspondence address of Fontlab Ltd. is:
-
-Fontlab Ltd.  
-403 South Lincoln Street, Suite 4-51  
-Port Angeles, WA 98362 USA
-
-You can also use the General contact form at http://www.fontlab.com/contact-and-support/contact/contact-fontlab-ltd/
-
-The corporate address (not for correspondence) is:
-
-Fontlab Ltd., Inc.  
-Suite 406-407, Tower B, Torres de las Americas,  
-Panama City, Republic of Panama
-
-Fontlab Ltd. is a Panama corporation.
+* [2012-09-20_10fourdesign-com-crafting-type.png](2012-09-20_10fourdesign-com-crafting-type.png) <info@10fourdesign.com>
