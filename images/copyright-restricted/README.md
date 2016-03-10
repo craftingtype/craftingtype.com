@@ -37,16 +37,16 @@ The following files are
 
 ### Twitter
 
-The following files probably have copyright belonging to twitter and the users. 
+The following files probably have copyrights belonging to twitter and the users. 
 
 * [2013-02-06_arielleey.png](2013-02-06_arielleey.png) ([@arielleey](https://twitter.com/arielleey))
 * [2013-03-09_kjameshenderson.png](2013-03-09_kjameshenderson.png) ([@kjameshenderson](https://twitter.com/kjameshenderson))
 * [2013-03-11_q_type.png](2013-03-11_q_type.png) ([@q_type](https://twitter.com/q_type))
 
-### Blogs
+### Screenshots
 
-The following files are 
+The following files are archives and probably have copyrights belonging to the original publishers.
 
-    © 2012 10four Design Group. All Rights Reserved.
-
-* [2012-09-20_10fourdesign-com-crafting-type.png](2012-09-20_10fourdesign-com-crafting-type.png) <info@10fourdesign.com>
+* [2012-09-20_10fourdesign-com-crafting-type.png](2012-09-20_10fourdesign-com-crafting-type.png) <info@10fourdesign.com> `© 2012 10four Design Group. All Rights Reserved.`
+* [2016-03-09-screencapture-ilovetypography-com-2013-02-24-making-fonts-crafting-type-workshops.png](2016-03-09-screencapture-ilovetypography-com-2013-02-24-making-fonts-crafting-type-workshops.png)
+* [2016-03-09-screencapture-www-art4d-asia-news-detail-php-1457546541679.png](2016-03-09-screencapture-www-art4d-asia-news-detail-php-1457546541679.png)
