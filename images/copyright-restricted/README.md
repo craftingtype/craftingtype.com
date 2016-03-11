@@ -4,13 +4,12 @@ The following files are under restrictive copyright and contain proprietary trad
 
 The Crafting Type and TUG websites have permission to use them.
 
-The following files are 
+## Logos
 
-### Fontlab
+### Font Editors
 
+Copyright (c) Fontlab Ltd. All Rights Reserved.  
 <contact@fontlab.com>
-
-    Copyright (c) Fontlab Ltd. All Rights Reserved.  
 
 * [FL-logotype-BW300dpi.jpg](FL-logotype-BW300dpi.jpg)
 * [FL-logotype.png](FL-logotype.png)
@@ -25,15 +24,22 @@ The following files are
 * [fllg_rgbFF7F00_500x170.png](fllg_rgbFF7F00_500x170.png)
 * [Fontlab-vector-logo.eps](Fontlab-vector-logo.eps)
 
-### Glyphs
-
+COPYRIGHT © 2016 GLYPHS  
 <info@glyphsapps.com>
 
-The following files are 
-
-    COPYRIGHT © 2016 GLYPHS
-
 * [glyphs2.png](glyphs2.png)
+
+### Venue Sponsors
+
+2013-02-06_arielleey.png
+2013-03-09_q_type.png
+2013-03-11_kjameshenderson.png
+
+README.md
+
+glyphs2.png
+logo-1508.png
+logo-eff.png
 
 ### Twitter
 
