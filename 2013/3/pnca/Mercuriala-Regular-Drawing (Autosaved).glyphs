@@ -468,6 +468,7 @@ descender = -312;
 guideLines = (
 {
 position = "{193, 252}";
+showMeasurement = 1;
 }
 );
 horizontalStems = (
