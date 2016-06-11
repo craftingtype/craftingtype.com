@@ -4831,7 +4831,7 @@ unicode = 006F;
 },
 {
 glyphname = p;
-lastChange = "2016-06-11 22:37:54 +0000";
+lastChange = "2016-06-11 22:43:44 +0000";
 layers = (
 {
 layerId = "70CB0793-CC2E-4F1A-A11D-52AA668529D4";
@@ -4889,15 +4889,16 @@ nodes = (
 );
 }
 );
-width = 646;
+width = 647;
 }
 );
 note = p;
+rightMetricsKey = "=o";
 unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2016-06-11 22:37:54 +0000";
+lastChange = "2016-06-11 22:43:50 +0000";
 layers = (
 {
 layerId = "70CB0793-CC2E-4F1A-A11D-52AA668529D4";
@@ -4955,6 +4956,7 @@ nodes = (
 width = 606;
 }
 );
+leftMetricsKey = "=o";
 note = q;
 unicode = 0071;
 },
