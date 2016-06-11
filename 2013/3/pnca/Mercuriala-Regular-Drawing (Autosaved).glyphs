@@ -467,6 +467,7 @@ value = 71;
 descender = -312;
 guideLines = (
 {
+alignment = center;
 position = "{193, 252}";
 showMeasurement = 1;
 }
