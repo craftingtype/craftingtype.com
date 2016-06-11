@@ -4898,12 +4898,13 @@ unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2016-06-11 22:56:00 +0000";
+lastChange = "2016-06-11 22:56:11 +0000";
 layers = (
 {
 guideLines = (
 {
-position = "{250, 338}";
+angle = 90;
+position = "{250, 369}";
 }
 );
 layerId = "70CB0793-CC2E-4F1A-A11D-52AA668529D4";
