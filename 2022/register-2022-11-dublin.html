@@ -102,10 +102,19 @@
 				with any questions about this event. This event’s contact person is Thomas. 
 
                 This workshop is capped at 28 simultaneous people, and at no more than 14 people each in the MasterClass and Intro sections.
+			</p>
+		</div>
+		<div>
+			<h5>Discounts</h5>
+			<p>
+				Current pricing includes:
+			<ul>
+				<li>$100 discount on full 3-day workshop for the first ten registrants, thanks to subsidy from Design Week Ireland</li>
+				<li>15% “Early Bird” discount until Oct 31</li>
+			</ul>
 
 			</p>
 		</div>
-
 		<div class="span3 offset1">
 			<p>
 				<strong>Venue Partners:</strong><br><br><a href="https://www.tudublin.ie/">TU Dublin</a><br>
@@ -120,6 +129,9 @@
 			<br>
 			<p>
 				<strong>Options:</strong><br>
+				<br>
+				<p><strong>Use the popdown menu to select your options for class length and attendee type!</strong> PayPal payments for this workshop go through Font Detective LLC, Thomas’ company.</p>
+				<br>
 				<p><strong>Full Class</strong>: This is our standard 3-day class, still the version we recommend if you want to learn the basics of type design</p>
 				<p><strong>Intro Only</strong>: Just the first day-and-a-half of the 3-day class. Good for a limited budget—although we find the latter part of the class is where people really take off!</p>
 				<p><strong>MasterClass</strong>: Attend just day three of the class. This is suggested for people who have a little type design experience, perhaps took Crafting Type Dublin in 2013? Bring a current project to work on, and get feedback on, in the hands-on portions!</p>
@@ -134,14 +146,14 @@
 <div id="smart-button-container">
       <div style="text-align: center;">
         <div style="margin-bottom: 1.25rem;">
-          <p><strong>Choose your option</strong> from the menu below.</p>
-          <select id="item-options"><option value="Pro full 3-day" price="460">Pro full 3-day: 460 USD</option><option value="Member full 3-day" price="404">Member full 3-day - 404 USD</option><option value="Student full 3-day" price="180">Student full three-day - 180 USD</option><option value="Pro 1.5-day limited intro" price="304">Pro 1.5-day limited intro - 304 USD</option><option value="Member 1.5-day limited intro" price="273.60">Member 1.5-day limited intro - 273.60 USD</option><option value="Student 1.5-day limited intro" price="152">Student 1.5-day limited intro - 152 USD</option><option value="Professional final day only “MasterClass”" price="224">Professional final day only “MasterClass” - 224 USD</option><option value="Member final day only “MasterClass”" price="201.60">Member final day only “MasterClass” - 201.60 USD</option><option value="Student final day only “MasterClass”" price="112">Student final day only “MasterClass” - 112 USD</option></select>
+          <p>Description text HERE</p>
+          <select id="item-options"><option value="Pro full 3-day" price="460">Pro full 3-day - 460 USD</option><option value="Member full 3-day" price="404">Member full 3-day - 404 USD</option><option value="Student full 3-day" price="180">Student full 3-day - 180 USD</option><option value="Pro 1.5-day limited intro" price="304">Pro 1.5-day limited intro - 304 USD</option><option value="Member 1.5-day limited intro" price="273.60">Member 1.5-day limited intro - 273.60 USD</option><option value="Student 1.5-day limited intro" price="152">Student 1.5-day limited intro - 152 USD</option><option value="Pro final day only “MasterClass”" price="224">Pro final day only “MasterClass” - 224 USD</option><option value="Member final day only “MasterClass”" price="201.60">Member final day only “MasterClass” - 201.60 USD</option><option value="Student final day only “MasterClass”" price="112">Student final day only “MasterClass” - 112 USD</option></select>
           <select style="visibility: hidden" id="quantitySelect"></select>
         </div>
       <div id="paypal-button-container"></div>
       </div>
     </div>
-    <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
+    <script src="https://www.paypal.com/sdk/js?client-id=AZuXX5P0CLydPqWy-kj8sI1YiIOACwomYZth45ro92rID6URi067Scv7wgjxh8_uMNrnaFLeXj9X9Tim&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
     <script>
       function initPayPalButton() {
         var shipping = 0;
@@ -151,16 +163,16 @@
     if (!isNaN(quantity)) {
       quantitySelect.style.visibility = "visible";
     }
-    var orderDescription = 'See above for detailed descriptions of “Member,” “Student,” and the various class options.';
+    var orderDescription = 'Description text HERE';
     if(orderDescription === '') {
       orderDescription = 'Item';
     }
     paypal.Buttons({
       style: {
         shape: 'pill',
-        color: 'blue',
+        color: 'gold',
         layout: 'vertical',
-        label: 'pay',
+        label: 'buynow',
         
       },
       createOrder: function(data, actions) {
@@ -233,7 +245,7 @@
   }
   initPayPalButton();
     </script>
-
+    
 	<div class="alert alert-info">
 	 	<b>Group Discounts</b><br> 
 	 	We offer group discounts of 20% from our full prices for 3+ people. 
