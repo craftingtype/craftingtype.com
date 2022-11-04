@@ -127,22 +127,16 @@
 			<p>
 				Please email <a href="mailto:info@craftingtype.com">info@craftingtype.com</a> 
 				with any further questions about this event. This event’s contact person is Thomas. 
-
-                This workshop is capped at 28 simultaneous people, and at no more than 14 people each in the MasterClass and Intro sections.
-			</p>
+ 			</p>
 			<h5>Pricing & Options</h5>
 			<p>
-				Current pricing includes:
-			<ul>
-				<li>$100 discount on full 3-day workshop for the first ten registrants, thanks to subsidy from Design Week Ireland</li>
-				<li>15% “Early Bird” discount until Nov 3</li>
-			</ul>
+				Current pricing includes a $100 discount on full 3-day workshop for the first ten registrants, thanks to subsidy from <em>Design Week Ireland</em></li>
 			</p>
 				<p><strong>Use the popdown menu to select your options for class length and attendee type!</strong> PayPal payments for this workshop go through Font Detective LLC, Thomas’ company.
 				</p>
-				<p><strong>Full Class</strong>: This is our standard 3-day class, still the version we recommend if you want to learn the basics of type design. Currently $460 Pro, $404 Member, $180 Student. (until Oct 31 or 10 registrations)</p>
-				<p><strong>Intro Only</strong>: Just the first day-and-a-half of the 3-day class. Good for a limited budget—although we find the latter part of the class is where people really take off! Currently $304 Pro, $273.60 Member, $152 Student. (until Oct 31)</p>
-				<p><strong>MasterClass</strong>: Attend just day three of the class. This is suggested for people who have a little type design experience, perhaps took Crafting Type Dublin in 2013? Bring a current project to work on, and get feedback on, in the hands-on portions! Currently $224 Pro, $201.60 Member, $112 Student. (until Oct 31)</p>
+				<p><strong>Full Class</strong>: This is our standard 3-day class, still the version we recommend if you want to learn the basics of type design. Currently $600 Pro, $530 Member, $250 Student. (until 10 paid registrations)</p>
+				<p><strong>Intro Only</strong>: Just the first day-and-a-half of the 3-day class. Good for a limited budget—although we find the latter part of the class is where people really take off! $380 Pro, $342 Member, $190 Student.</p>
+				<p><strong>MasterClass</strong>: Attend just day three of the class. This is suggested for people who have a little type design experience, perhaps took Crafting Type Dublin in 2013? Bring a current project to work on, and get feedback on, in the hands-on portions! $280 Pro, $252 Member, $140 Student.</p>
 				<br>
 				<p><strong>Professional</strong>: anyone who does not qualify as “Member” or “Student” below</p>
 				<p><strong>Member</strong>: current member of GDC, AIGA, ATypI, STA, SoTA, TUG, AIA, or Graphic Artists Guild</p>
@@ -155,13 +149,13 @@
       <div style="text-align: center;">
         <div style="margin-bottom: 1.25rem;">
           <p><strong>⬇️ SELECT your preferred options in the popdown below.</strong></p>
-          <select id="item-options"><option value="Pro Full Class" price="460">Pro Full Class - 460 USD</option><option value="Member Full Class" price="404">Member Full Class - 404 USD</option><option value="Student Full Class" price="180">Student Full Class - 180 USD</option><option value="Pro 1.5-day limited intro" price="304">Pro 1.5-day limited intro - 304 USD</option><option value="Member 1.5-day limited intro" price="273.60">Member 1.5-day limited intro - 273.60 USD</option><option value="Student 1.5-day limited intro" price="152">Student 1.5-day limited intro - 152 USD</option><option value="Pro final day only “MasterClass”" price="224">Pro final day only “MasterClass” - 224 USD</option><option value="Member final day only “MasterClass”" price="201.60">Member final day only “MasterClass” - 201.60 USD</option><option value="Student final day only “MasterClass”" price="112">Student final day only “MasterClass” - 112 USD</option></select>
+          <select id="item-options"><option value="Pro Full Class" price="600">Pro Full Class - €600</option><option value="Member Full Class" price="530">Member Full Class - €530</option><option value="Student Full Class" price="250">Student Full Class - €250</option><option value="Pro 1.5-day limited intro" price="380">Pro 1.5-day limited intro - €380</option><option value="Member 1.5-day limited intro" price="342">Member 1.5-day limited intro - €342</option><option value="Student 1.5-day limited intro" price="152">Student 1.5-day limited intro - €190</option><option value="Pro final day only “MasterClass”" price="280">Pro final day only “MasterClass” - €280</option><option value="Member final day only “MasterClass”" price="252">Member final day only “MasterClass” - €252</option><option value="Student final day only “MasterClass”" price="140">Student final day only “MasterClass” - €140</option></select>
           <select style="visibility: hidden" id="quantitySelect"></select>
         </div>
       <div id="paypal-button-container"></div>
       </div>
     </div>
-    <script src="https://www.paypal.com/sdk/js?client-id=AZuXX5P0CLydPqWy-kj8sI1YiIOACwomYZth45ro92rID6URi067Scv7wgjxh8_uMNrnaFLeXj9X9Tim&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
+    <script src="https://www.paypal.com/sdk/js?client-id=AZuXX5P0CLydPqWy-kj8sI1YiIOACwomYZth45ro92rID6URi067Scv7wgjxh8_uMNrnaFLeXj9X9Tim&enable-funding=venmo&currency=EUR" data-sdk-integration-source="button-factory"></script>
     <script>
       function initPayPalButton() {
         var shipping = 0;
@@ -203,19 +197,19 @@
           purchase_units: [{
             description: orderDescription,
             amount: {
-              currency_code: 'USD',
+              currency_code: 'EUR',
               value: priceTotal,
               breakdown: {
                 item_total: {
-                  currency_code: 'USD',
+                  currency_code: 'EUR',
                   value: itemTotalValue,
                 },
                 shipping: {
-                  currency_code: 'USD',
+                  currency_code: 'EUR',
                   value: shipping,
                 },
                 tax_total: {
-                  currency_code: 'USD',
+                  currency_code: 'EUR',
                   value: tax,
                 }
               }
@@ -223,7 +217,7 @@
             items: [{
               name: selectedItemDescription,
               unit_amount: {
-                currency_code: 'USD',
+                currency_code: 'EUR',
                 value: selectedItemPrice,
               },
               quantity: quantity
