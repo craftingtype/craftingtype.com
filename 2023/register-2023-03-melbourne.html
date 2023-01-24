@@ -118,7 +118,7 @@
 				<p><strong>Use the popdown menu to select your registration type!</strong> PayPal payments for this workshop go through Font Detective LLC, Thomas’ company.
 				</p>
 				<p><strong>Current pricing is early bird rate (-20%)</strong> which is AUD <s>$860</s> $688 Pro, AUD <s>$731</s> $585 Member, AUD <s>$590</s> $472 Charity, AUD <s>$430</s> 344 Student</p><br>
-				<p><strong>Professional</strong>: anyone who does not qualify as “Member” “Non-profit” or “Student” below</p>
+				<p><strong>Standard</strong>: anyone who does not qualify as “Member” “Non-profit” or “Student” below</p>
 				<p><strong>Member</strong>: current member of GDC, AIGA, ATypI, STA, SoTA, TUG, AIA, or Graphic Artists Guild</p>
 				<p><strong>Charity</strong>: board member, or half-time or more worker (including volunteers), for a registered charitable organization</p>
 				<p><strong>Student</strong>: current full-time student or staff at an accredited academic institution</p>
@@ -131,7 +131,7 @@
         <div style="margin-bottom: 1.25rem;">
           <p><strong>⬇️ SELECT your preferred options in the popdown below.</strong></p>
           <select id="item-options">
-          <option value="Pro" price="688">Pro - AUD $688</option>
+          <option value="Standard" price="688">Standard - AUD $688</option>
           <option value="Member" price="585">Member - AUD $585</option>
           <option value="Charity" price="472">Charity - AUD $472</option>
           <option value="Student Full Class" price="344">Student - AUD $344</option></select>
@@ -140,7 +140,7 @@
       <div id="paypal-button-container"></div>
       </div>
     </div>
-    <script src="https://www.paypal.com/sdk/js?client-id=AZuXX5P0CLydPqWy-kj8sI1YiIOACwomYZth45ro92rID6URi067Scv7wgjxh8_uMNrnaFLeXj9X9Tim&enable-funding=venmo&currency=EUR" data-sdk-integration-source="button-factory"></script>
+    <script src="https://www.paypal.com/sdk/js?client-id=AZuXX5P0CLydPqWy-kj8sI1YiIOACwomYZth45ro92rID6URi067Scv7wgjxh8_uMNrnaFLeXj9X9Tim&enable-funding=venmo&currency=AUD" data-sdk-integration-source="button-factory"></script>
     <script>
       function initPayPalButton() {
         var shipping = 0;
@@ -232,7 +232,7 @@
   }
   initPayPalButton();
     </script>
-    
+   
 	<div class="alert alert-info">
 	 	<b>Group Discounts</b><br> 
 	 	We offer group discounts of 20% from our full prices for 3+ people. 
